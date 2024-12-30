@@ -144,8 +144,8 @@ Features
 - Dynamic visual feedback with labeled contours.
 
 Technologies Used
-- **OpenCV** for computer vision tasks.
-- **Tkinter** for graphical user interface.
+- OpenCV for computer vision tasks.
+- Tkinter for graphical user interface.
 
 How It Works
 1. Grayscale conversion simplifies image processing.
